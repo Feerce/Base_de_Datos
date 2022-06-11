@@ -74,26 +74,3 @@ fecha, número de páginas y el número de ejemplares vendidos.
 ![image](https://user-images.githubusercontent.com/104279806/170845384-8ae7ed40-1aec-4847-8c82-3cc31b416f14.png)
 
 https://www.db-fiddle.com/f/8FxSHMVxAZUbt7pzjyMyNL/0
-CREATE DATABASE PROVEEDORES;
-USE PROVEEDORES;
-
-CREATE TABLE sucursal (
-  id_sucursal VARCHAR(100) PRIMARY KEY,
-  domicilio VARCHAR(100) NOT NULL,
-  telSucursales VARCHAR(100) NOT NULL
-  );
- 
- CREATE TABLE revistas (
-   id_revistas VARCHAR(100) PRIMARY KEY,
-   titulo VARCHAR(100) NOT NULL,
-   periodicidad VARCHAR(100) NOT NULL,
-   tipo VARCHAR(100) NOT NULL
-   );
- 
- CREATE TABLE periodistas (
-   id_periodistas VARCHAR(100) PRIMARY KEY,
-   nomperiodistas VARCHAR(100) NOT NULL,
-   especialidad VARCHAR(100) NOT NULL,
-   telPeriodistas VARCHAR(100) NOT NULL
-   );
-   

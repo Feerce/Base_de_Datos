@@ -13,10 +13,9 @@ En la BD utilizada en clase realiza las siguientes consultas:
 ![image](https://user-images.githubusercontent.com/104279806/172028880-1247b87a-40cf-4c10-bca1-8089557b52a2.png)
 
 * Muestra que periodistas colaboraron en x revista y en que sucursal se publico la revista
- ![image](https://user-images.githubusercontent.com/104279806/172029417-c5e12a5a-40af-4af3-8730-4e763e5ca827.png)
-
+ ![image](https://user-images.githubusercontent.com/104279806/173190872-3fa3c10f-8cf2-41d8-a8a5-46c633161be6.png)
 * Mustra que seccion esta en x revista, en que sucursal se imprimio y que empleados estan en esa sucursal.
-![image](https://user-images.githubusercontent.com/104279806/173190872-3fa3c10f-8cf2-41d8-a8a5-46c633161be6.png)
+![image](https://user-images.githubusercontent.com/104279806/173191570-42df10be-c428-4922-bd9d-f3f26402a168.png)
 * En la tabla peridistas muestra solo los que escriban sobre cine
 ![image](https://user-images.githubusercontent.com/104279806/173191191-381e21a6-7d0c-4677-89b0-f4e363dc798b.png)
 * De la tabla revistas muestra las que sean de publicacion 
@@ -28,19 +27,3 @@ quincenal
 ![image](https://user-images.githubusercontent.com/104279806/173191061-55dde33b-de3f-4416-8eb1-0f7cba528764.png)
 
 https://www.db-fiddle.com/f/iAUjGLoFoHtam2pK68Xh1B/1
-
-* Muestra que periodistas colaboran en x revista y en que sucursal se publico la revista
-![ imagen ](https://user-images.githubusercontent.com/99296446/172028120-81ef18ba-901c-4c06-8617-c3a2fa3f9d0b.png)
-* Mustra que seccion esta en x revista, en que sucursal se imprimio y que empleados estan en esa sucursal.
-![ imagen ](https://user-images.githubusercontent.com/99296446/172028488-031f2c0a-faab-48a1-949e-c82a81747e3e.png)
-* En la tabla peridistas muestra solo los que escriben sobre cine
-![ imagen ](https://user-images.githubusercontent.com/99296446/172028855-a10a456b-8384-4688-9324-11fb033745cc.png)
-* De la tabla revistas muestra las que sean de publicacion quincenal
-![ imagen ](https://user-images.githubusercontent.com/99296446/172028919-fc7ddfe8-3156-4314-912e-e3c2fe75f450.png)
-* Muestra el nombre de ka revista que se han impreso despues del 30 de septiembre del 2021
-![ imagen ](https://user-images.githubusercontent.com/99296446/172029009-a1aee455-c0e9-4d86-accd-1142b168114e.png)
-* Muestra el nombre de la revista que se haya publicado en la sucursal 1 cuyos ejemplares tendrán más de 80 páginas.
-![ imagen ](https://user-images.githubusercontent.com/99296446/172029112-667f6751-6a3c-4182-84d1-4cb1eba003e6.png)
-
-https://www.db-fiddle.com/f/iAUjGLoFoHtam2pK68Xh1B/1
-

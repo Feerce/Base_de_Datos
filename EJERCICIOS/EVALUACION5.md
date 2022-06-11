@@ -20,20 +20,10 @@ todos los productos de la base de datos.
 Subconsultas (En la cláusula WHERE)
 1. Devuelve todos los productos del fabricante Lenovo. (Sin utilizar INNER
 JOIN).
-
+![image](https://user-images.githubusercontent.com/104279806/173199069-cd008844-c158-4d20-8708-e5cfc8ff0f75.png)
 
 2. Devuelve todos los datos de los productos que tienen el mismo precio que el
 producto más caro del fabricante Lenovo. (Sin utilizar INNER JOIN).
-
+![image](https://user-images.githubusercontent.com/104279806/173199260-9bf24852-438e-4ec8-87a9-bf4fbc09c599.png)
 
 3. Lista el nombre del producto más caro del fabricante Lenovo.
-4. ![ imagen ](https://user-images.githubusercontent.com/101668305/172985212-20fbd241-d6c6-45cc-8baa-a9601b987096.png)
-![ imagen ](https://user-images.githubusercontent.com/101668305/172985260-e274cfd6-6523-44b2-9c4b-f73d355103de.png)
-
-
-3. Devuelve una lista con el nombre del producto, precio y nombre de fabricante de
-todos los productos de la base de datos.
-
-![ imagen ](https://user-images.githubusercontent.com/101668305/173125224-abc9cc3d-0cac-4a31-87c0-87eb0462de9b.png)
-![ imagen ](https://user-images.githubusercontent.com/101668305/173125278-569ee598-e338-43f5-aa42-dee4677aee55.png)
-

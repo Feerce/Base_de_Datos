@@ -6,7 +6,7 @@
 
 ● Crea el script para la base de datos.
 Proveedores
-https://www.db-fiddle.com/f/9sJbfFPaqmH3gLPZ839D5u/0
+https://www.db-fiddle.com/f/vchm3fFMd6WxuFHjJETNbx/1
 
 Tenemos que diseñar una base de datos sobre proveedores y disponemos de
 la siguiente información:

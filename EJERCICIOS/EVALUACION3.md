@@ -14,10 +14,10 @@ para respaldar el análisis empresarial, la minería de datos,
 inteligencia artificial y Machine Learning.
 
 2. Realiza un diseño del modelo en estrella (valor 2)
-
+![image](https://user-images.githubusercontent.com/104279806/173192876-f99c61ce-d71c-4060-a670-b568905e48a1.png)
 
 3. Realiza un diseño del modelo copo de nieve (valor 2)
-
+![image](https://user-images.githubusercontent.com/104279806/173193186-f5640f5a-bd9e-4a12-a623-f4a8763847d4.png)
 
 ## Práctica 7
 ### Funciones en SQL
